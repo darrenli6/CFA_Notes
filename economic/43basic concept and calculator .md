@@ -28,9 +28,39 @@ the percentage change in the USD price of the a euro
 
 > norminal exchange rate 包含inflation
 
+$$
+normal  exchange  rate =  DC /FC
+$$
+
 
 
 > real exchange rate 剔除物价 
+
+$$
+real exchange rate  =  (DC / CPI dc ) /FC (CPI fc)  = DC/FC  *  CPI fc / CPI dc
+$$
+
+## Participants in the foreign market
+
+- sell side 
+
+  >  提供外币
+
+- buy side 
+
+  > 需要外币
+
+  ​
+
+  ## cross rate
+
+   
+
+  ​
+
+  ​
+
+  ​
 
 
 
