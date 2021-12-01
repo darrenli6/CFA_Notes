@@ -12,6 +12,14 @@ my anwser  A
 
 correct answer  B 
 
+#### Substitution and Income Effect 
+
+?
+
+31:52
+
+
+
 
 
 
