@@ -35,7 +35,7 @@ my answer  C
 
 Denali  Limited,  a  manufacturing  company,  had  the  following  incomestatement information
 
-![image](https://note.youdao.com/yws/res/55705/28A95AAE97E64D1C92B32572EA72E57B)
+![image](28A95AAE97E64D1C92B32572EA72E57B)
 
 
 Denali’s gross profit is equal to:
@@ -68,7 +68,7 @@ correct B
 
 Fairplay  had  the  following  information  related  to  the  sale  of  itsproducts during 2009, which was its first year of business:
 
-![image](https://note.youdao.com/yws/res/55708/819783D1389343CBA39E75E23C59C388)
+![image](819783D1389343CBA39E75E23C59C388)
 
 Under the accrual basis of accounting, how much net revenue would be reported on Fairplay’s 2009 income statement?
 
@@ -304,7 +304,7 @@ should be the weight average number of
 
 Laurelli Builders (LB) reported the following financial data for year-end31 December:
 
-![image](https://note.youdao.com/yws/res/55827/AAE3D3FDA1624113AE0AA357C60A343A)
+![image](AAE3D3FDA1624113AE0AA357C60A343A)
 
 Which statement about the calculation of LB’s EPS ismostaccurate?
 
@@ -366,12 +366,69 @@ deps =  200 000 -5* 2000 + 5* 2000 / 50000 + 4000 = 3.7
 
 ### 40 
 
-When calculating diluted EPS, which of the following securities in thecapital  structure  increases  the  weighted  average  number  of  commonshares outstanding without affecting net income available to commonshareholders?
+When calculating diluted EPS, which of the following securities in the capital  structure  increases  the  weighted  average  number  of  commonshares outstanding without affecting net income available to common shareholders?
 
 A.  Stock options.
 
 B.   Convertible debt that is dilutive.
 
 C.  Convertible preferred stock that is dilutive.
+
+
+my answer  A  
+
+??
+
+When  a  company  has  stock  options  outstanding,  diluted  EPS  iscalculated  as  if  the  financial  instruments  had  been  exercised  andthe  company  had  used  the  proceeds  from  the  exercise  torepurchase  as  many  shares  possible  at  the  weighted  averagemarket price of common stock during the period. As a result, theconversion  of  stock  options  increases  the  number  of  commonshares  outstanding  but  has  no  effect  on  net  income  available  tocommon  shareholders.  The  conversion  of  convertible  debtincreases the net income available to common shareholders by theafter-tax  amount  of  interest  expense  saved.  The  conversion  ofconvertible preferred shares increases the net income available tocommon shareholders by the amount of preferred dividends paid;the numerator becomes the net income
+
+
+### 40 
+
+Which statement is most accurate? A common size income statement:
+
+A.  restates each line item of the income statement as a percentage ofnet income.
+
+B.   allows an analyst to conduct cross-sectional analysis by removingthe effect of company size.
+
+C.  standardizes  each  line  item  of  the  income  statement  but  fails  tohelp an analyst identify differences in companies’ strategies
+
+my answer  C
+
+correct B  
+
+### 41 
+
+Selected  year-end  financial  statement  data  for  Workhard  are  shown below
+
+![image](2815993EE0F041228ECC74A86B424AAA)
+
+Workhard’s comprehensive income for the year:
+
+A.  is $18 million.
+
+B.  is increased by the derivatives accounted for as hedges.
+
+C.  includes $4 million in other comprehensive income.
+
+my answer C
+
+NI + OCI =CI 
+
+
+### 42  
+
+When  preparing  an  income  statement,  which  of  the  following  items would most likely be classified as other comprehensive income?
+
+A.  A foreign currency translation adjustment
+
+B.   An unrealized gain on a security held for trading purposes
+
+C.  A  realized  gain  on  a  derivative  contract  not  accounted  for  as  ahedge
+
+
+my answer  A 
+
+
+
 
 
