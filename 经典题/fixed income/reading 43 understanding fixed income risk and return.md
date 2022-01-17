@@ -18,6 +18,17 @@ C. Reinvestment of coupon payments
 
 #### myanswer B
 
+#### correct A
+
+#### knowledge
+
+1 po 
+2 rev ==> 1 coupon  cr 2 RI --- > market ytm  3 par (到期)and selling price(不到期 )
+
+
+到期是没有资本利得和损失
+
+discount--> par  800 ->1000 
 
  
 
@@ -32,7 +43,14 @@ C. Reinvestment of coupon payments
 
 #### my answer A
 
+#### correct C
 
+
+#### knowledge 
+
+持有到期 par 不会有影响
+
+只有ri
 
 
 ### 112
@@ -101,6 +119,19 @@ fv =41.06
 100+41.06/97.422
 
 
+#### correct B
+
+
+#### konwledge
+
+n=4 1/y=8 fv=100 pmt=7
+
+pv =96.69
+
+96.69-100
+
+
+
 ### 114
 
 The following information relates to Questions 1–3
@@ -118,8 +149,22 @@ C. 7.12%
 #### my answer C
 
 
+#### correct B 
+
+#### knowledge 
 
 
+
+
+
+
+n=5 pv =0 pmt=7 1/y=8 
+fv =41.06
+
+41.09+96.69 =
+
+
+100* (1+r)^5 =41.07 +96.69 r =6.62
 
 
 
@@ -237,7 +282,7 @@ present value of the liabilities under three interest rate scenarios: a base rat
 rates down to 6%. The results of the manager’s analysis are presented below:
 
 
-![image](9CCB27C3E9564DBF90B2994BB44FDF34)
+![image](https://note.youdao.com/yws/res/59800/9CCB27C3E9564DBF90B2994BB44FDF34)
 
 The effective duration of the pension fund’s liabilities is closest to:
 
@@ -273,6 +318,21 @@ time-to-maturity.
 
 #### my answer  
 
+#### correct B 
+
+
+#### konwledge
+
+性质 
+1 maturity D 
+
+
+equal  
+The Macaulay duration of a zero-coupon bond is less than its
+time-to-maturity.
+
+zero-bond 就是一笔现金流
+
 
 ### 120
 
@@ -299,7 +359,7 @@ A bond portfolio consists of the following three fixed-rate bonds. Assume annual
 coupon payments and no accrued interest on the bonds. Prices are per 100 of par
 value
 
-![image](89762778BDE748C08DCBDA4CFB41FF0D)
+![image](https://note.youdao.com/yws/res/59798/89762778BDE748C08DCBDA4CFB41FF0D)
 
 The bond portfolio’s modified duration is closest to:
 A. 7.62.
@@ -308,6 +368,12 @@ C. 8.20
 
 
 #### my answer 
+
+#### correct A
+
+
+权重(市值) * D
+
 
 
 ### 122
@@ -327,6 +393,16 @@ options.
 
 ？？？？
 
+#### knowledge 
+
+yield curve  => 1 parallel  
+non-parallel key rate duration 
+
+fluttern more accurate 
+
+
+
+
 
 
 
@@ -339,7 +415,7 @@ no accrued interest?
 
 
 
-![image](4BFF3FBF78B14B798BE0FB5CEB72E3C0)
+![image](https://note.youdao.com/yws/res/59799/4BFF3FBF78B14B798BE0FB5CEB72E3C0)
 
 A. Bond A
 B. Bond B
@@ -371,6 +447,28 @@ C. 0.1295.
 n=9 pmt=3 1/y=5 fv=100
 
 85.7844
+
+
+#### correct B 
+
+
+#### knowledge 
+
+pvbp 变动 0.01%
+
+pvbp= MD * p* 0.01%
+
+PVBP = V- - V+/2
+
+V-
+n=9 1/y=4.99 fv=100 pmt =3 
+pv =85.849134
+
+
+V+
+
+n=9 1/y=5.01 fv=100 pmt=3 
+pv =
 
 
 
@@ -433,7 +531,15 @@ Ap/p = - Md * Ay+ 1/2 * Ay*2 * conv
 
 
 
+####  correct  C
 
+
+
+#### knowledge 
+
+Ay 注意符号 
+
+减少0.0025  -0.0025
 
 ### 126 
 
@@ -474,6 +580,28 @@ than long-term bonds
 B yields ?
 
 
+####  correct  B
+
+
+#### knowledge 
+
+term of yield volatiltiry 
+
+利率波动性曲线 
+
+
+term of yield curve
+利率曲线
+
+
+C  
+
+Ap/p = -MD * Ay + 1/2 * convexity Ay^2
+
+
+
+
+
 
 
 ### 128 
@@ -486,6 +614,26 @@ C. Macaulay duration.
 
 
 #### my answer A
+
+####  correct  C
+
+#### knowledge 
+
+投资期限等于麦考利久期 
+
+mkt yeild 上升， RI上升 price 下降 
+上升部分与下降部分相等
+
+
+投资期限 小于 麦考利
+
+ri上升部分小于价格下降部分
+
+
+投资期限大于麦考利 
+
+ri上升部分大于价格下降部分
+
 
 
 
@@ -510,6 +658,12 @@ mac - hi
 长期  
 
 reinvest rike 
+
+####  correct  C
+
+
+#### knowledge 
+
 
 
 ### 129
@@ -569,6 +723,11 @@ from various euro area sovereign and corporate issuers
 
 #### my answer 
 
+ 
+
+
+
+
 Empirical duration: Professionals often use historical data in statistical models
 that incorporate various factors affecting bond prices to calculate empirical
 duration estimates. (consider correlation between benchmark yields and spreads)
@@ -576,3 +735,14 @@ duration estimates. (consider correlation between benchmark yields and spreads)
 differ among bond types
 
 ??
+####  correct  C
+
+
+#### knowledge 
+
+
+经验久期
+
+ri = benchmark + spread
+
+

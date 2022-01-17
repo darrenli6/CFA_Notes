@@ -27,6 +27,12 @@ C. higher market liquidity risk
 #### my answer B
 
 
+####  correct  C
+
+
+#### knowledge 
+
+没有流动性 肯定高风险呀
 
 
 
@@ -41,6 +47,13 @@ C. Junior subordinate debt
 #### my answer A
 
 mortgate 抵押
+
+#### knowledge
+
+
+secure> unsecure 
+
+senior > subornatal 次级 > junior 
 
 
 
@@ -57,7 +70,15 @@ priority of claims
 #### my naswer A 
 
 
+####  correct  B
  
+#### knowledge 
+
+公布债 > 资产价值 
+并不意味着优先权不严格遵守
+
+
+
 
 ### 134
 
@@ -70,8 +91,15 @@ C. cannot foresee future debt-financed acquisitions
 #### my answer B
 
 lag market 
+####  correct  C
 
 
+#### knowledge
+
+行为偏差 bias 
+
+ cannot foresee future debt-financed acquisitions
+无法预见未来的债务融资收购
 
 ### 135
 
@@ -129,7 +157,7 @@ C. travel and tourism company.
 
 
 ### 137
-![image](8413953E576F483AAFADE9A050D142E4)
+![image](https://note.youdao.com/yws/res/60499/8413953E576F483AAFADE9A050D142E4)
 
 
 
@@ -198,7 +226,7 @@ C. remained the same
 
 ### 140
 
-![image](5C48226E90ED429DAD54220DACDDCC8F)
+![image](https://note.youdao.com/yws/res/60494/5C48226E90ED429DAD54220DACDDCC8F)
 
 
 
@@ -217,7 +245,7 @@ C. the same as the industry
 
 
 
-![image](5A0A089657674D58824E92EB7371647D)
+![image](https://note.youdao.com/yws/res/60496/5A0A089657674D58824E92EB7371647D)
 
 
 
@@ -278,6 +306,15 @@ C. market liquidity risk
 
 #### my answre A
 
+####  correct  C
+
+
+#### knowledge
+
+如果不是公允的卖出 
+折旧卖出的  是因为流动性风险
+
+
 
 ### 144 
 
@@ -290,7 +327,10 @@ loses in the event of default.
 
 #### my answer B
 
+####  correct  C
 
+#### knowledge
+违约概率乘以违约损失。
 
 
 ### 144 
@@ -317,6 +357,14 @@ C. market liquidity risk.
 
 
 #### my answer 
+####  correct  A
+
+
+#### knowledge 
+
+public trade 说明没有流动性问题
+最重要分析 default risk 
+
 
 ### 146 
 
@@ -354,6 +402,15 @@ C. senior subordinated
 
 #### my answer B
 
+####  correct  C
+
+
+#### knowledge 
+
+
+senior >senior subordinated
+
+
 
 ### 148 
 
@@ -368,6 +425,27 @@ that specific property.
 #### my answer A
 
 c?
+####  correct  C
+
+
+#### knowledge 
+
+secured 
+
+- first lien load / first mortage debt 
+- second lien load 
+
+
+unsecured 
+
+senior 
+senior subordinated 
+
+subordinated 
+
+junior subordinated 
+
+
 
 
 ### 148 
@@ -410,6 +488,14 @@ C. structural subordination
 
 ### my answer 
 
+####  correct  C
+
+
+#### knowledge 
+
+结构性次级
+
+考虑限制子公司向母公司分红
 
 
 ### 150 
@@ -422,6 +508,13 @@ C. Senior unsecured bond
 
 
 #### A
+
+####  correct  C
+
+#### knowledge 
+
+评级 
+secured 是做信用增级
 
 
 ### 151
@@ -446,7 +539,14 @@ C. senior unsecured debt.
 
 #### my answer A
 
+####  correct  C
 
+
+#### knowledge 
+ 不做信用增级
+ 
+ senior unsecured 
+ 
 
 ### 152 
 
@@ -458,6 +558,7 @@ C. cross-default provisions.
 
 
 #### my answer A
+
 
 
 ### 153 
@@ -490,6 +591,16 @@ default
 
 precede 领先 
 
+####  correct  A
+
+
+
+#### knowledge 
+
+用户不希望看到违约
+所以机构不怎么调评级
+
+credit risk=> expected loo = prob * par * Loss given  default 
 
 
 ### 154 
@@ -505,6 +616,12 @@ companies in the industry
 #### my answer C
 
 . Broadly dispersed  广泛分散的
+####  correct  B
+
+#### knowledge 
+
+供应商越多 议价能力越强
+
 
 
 ### 155 
@@ -517,7 +634,24 @@ C. company fundamentals
 
 #### my answer  C
 
+####  correct  A
 
+#### knowledge 
+
+4c
+
+- capicity
+  - structure
+  - fundamental 
+  - company fundamental 
+  
+
+
+colleaterial 
+
+cover
+
+character 
 
 ### 156 
 
@@ -533,6 +667,15 @@ C. Significant off-balance-sheet financing
 审计 ？
 
 
+####  correct  C
+
+#### knowledge 
+
+
+warning flag 警告，质量出问题
+
+并没有经常性更换审计师
+
 
 
 
@@ -545,6 +688,16 @@ C. quality and value of the assets supporting an issuer's indebtedness.
 
 
 ####  my answer C
+
+####  correct  B
+
+#### knowelg 
+
+A  character 
+
+C colloatrial 
+
+B capitary
 
 
 
@@ -570,14 +723,28 @@ prematurely 过早的
 
 the following information relates to Questions 1–2
 
-![image](B686C2AC866946F7BBCC20CE8D1DF953)
+![image](https://note.youdao.com/yws/res/60493/B686C2AC866946F7BBCC20CE8D1DF953)
 1. Based on only the leverage ratios in Exhibit 4, the company with
 the highest credit risk is:
 A. Company A.
 B. Company B.
-C. Company 
+C. Company C
 
 #### my answer  B
+
+####  correct  C
+
+
+#### knowledge 
+
+profitablity 
+
+
+converage ratio 
+
+leverage  
+
+
 
 ### 159
 
@@ -591,23 +758,31 @@ C. Company C.
 
 
 #### my anser C
+#### correct  B
+
+
+#### konwledge 
+
+
+看清楚coverage 
+
 
 
 ### 159 
 
 The following information relates to Questions 1–2
 
-![image](C3E677284430404FAF2A49D4231B1B29)
+![image](https://note.youdao.com/yws/res/60495/C3E677284430404FAF2A49D4231B1B29)
 
-![image](118C543F93924142B9900BCD5C651F25)
+![image](https://note.youdao.com/yws/res/60504/118C543F93924142B9900BCD5C651F25)
 
-![image](E9A012ECA1474F229B73CAAE1D37DB78)
+![image](https://note.youdao.com/yws/res/60501/E9A012ECA1474F229B73CAAE1D37DB78)
 
-![image](C7BB5E68DA764515858220D64896630A)
+![image](https://note.youdao.com/yws/res/60498/C7BB5E68DA764515858220D64896630A)
 
-![image](419B4A6916644A89A654D80856073957)
+![image](https://note.youdao.com/yws/res/60500/419B4A6916644A89A654D80856073957)
 
-![image](F6DDB84F3C1F4B6A9214A3D5AEC0CAF4)
+![image](https://note.youdao.com/yws/res/60505/F6DDB84F3C1F4B6A9214A3D5AEC0CAF4)
 
 1. Based on Exhibits 5–7, in comparison to Company X, Company Y has
 a higher:
@@ -698,6 +873,18 @@ C. requirement to balance an operating budget
 #### my answer  B
 
 levy 税收
+####  correct  C
+
+
+#### knowledge 
+
+non-soverign  - go bond (tax) and revenue bond (project)
+
+go bond 
+
+地方政策要求维持财政平衡
+
+
 
 
 ### 167
@@ -714,6 +901,23 @@ C. matching of liquidity sources to upcoming debt maturities.
 B  对银行信贷安排的评估。
 
 将流动性来源与即将到期的债务相匹配。  
+
+####  correct  A
+
+
+#### knowledge 
+
+spread 
+
+投资级别债券 high rate -> r=> price
+
+
+high-yield low rate -> credit
+
+ri =beachmark + spread
+
+
+
 
 ### 168
 
